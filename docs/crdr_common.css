@@ -2,6 +2,7 @@
     --crdr-pubfbc-h1: #dbc29b;
     --crdr-pubfbc-h2: #aabb66;
     --crdr-pubfbc-h3: #92c295;
+    --crdr-pubfbc-m: #92b2bf;
     --crdr-prvfbc-h1: #ffaa00;
     --crdr-prvfbc-h2: #ff7700;
     --crdr-prvfbc-h3: #ff4400;
@@ -10,4 +11,5 @@
     --crdr-fbc: #f9f9f9;
     --crdr-hfont: "Oswald", sans-serif;
     --crdr-tfont: "Roboto", sans-serif;
+    --crdr-mfont: "Lobster", cursive, sans-serif;
 }
